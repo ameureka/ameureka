@@ -51,30 +51,6 @@ You can click the Preview link to take a look at your changes.
   ![IMG_3289](https://github.com/user-attachments/assets/151c10cf-d927-4650-8fb1-419df00f843b)
 
 
-- 23.4 - 23.10 - |（原理）部署+教程开源
-
-    - [国内最早的汉化、整合包和云部署](https://www.bilibili.com/video/BV14r4y1d7r8/?spm_id_from=333.999.0.0)
-    - [国内最全的理论 + 生态视频（5w字，4h）](https://www.bilibili.com/video/BV1BC4y1V7u9/?share_source=copy_web)
-
-- 23.8 - 24.8 - |（工具）工作流+ Agent开源
-
-    - [全球开源第一的工作流库，突破 5K 星](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
-    - [全球领域第一的 ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
-
-- 23.10 - 24.8 - |（开发）插件+资讯开源
-
-    - 全球 TOP3 ComfyUI 插件开发者
-    - 论文 + 项目精选：[AIGC | 每日简报](https://www.bilibili.com/read/readlist/rl820062?spm_id_from=333.999.0.0)
-
-- 24.6 -  |（生态）社区 + 创造开源
-
-    - ComfyUI 全球领导力峰会发起人
-    - ComfyUI 全球社区峰会内容共创 + 共学计划
-    - ComfyUI 全球社区峰会 - [新艺术宣言展览计划](https://mp.weixin.qq.com/s/HMFc0OFOiocah_tL37QlrQ)
-
-
- 
-
 ## 🏘️ **社区**
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
  
@@ -95,7 +71,7 @@ You can click the Preview link to take a look at your changes.
   
 
 ## 🏛️ **职业**
-- 职业建筑师 | 公共建筑
+- 架构师 | 云计算与AIGC
 - 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
 - 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
   
