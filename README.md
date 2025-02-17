@@ -33,20 +33,6 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ameureka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!-- 暂时注释掉目前的统计 -->
-
-<!-- <a href="https://trendshift.io/repositories/7226" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7226" 
-alt="ameureka%PortfolioBlog | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/8663" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8663" 
-alt="ameureka%Portfolio-Pageview | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/7073" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7073" 
-alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> -->
-
-
-![工作流库5K-2](https://github.com/user-attachments/assets/04ab4ecc-8d2f-47ca-8416-c952e6d9bfc7)
-
-
-
 <!---
 精简版
 --->
