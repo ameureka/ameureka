@@ -105,7 +105,11 @@ You can click the Preview link to take a look at your changes.
     - 源码解读
     - 设计工作流
     - 模型与节点管理指南
-    - SD 模型微调与Lora 训练
+    - [**SD 模型微调与Lora 训练**](https://genaibook.ameureka.com/chapter-4-sd-model-inference) 
+- [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
+    - 论文解读
+    - 模型微调
+    - AI-agent实践
 - Vercel 边缘云计算全栈实践
     - 编写、汉化或优化自定义节点
     - 设计工作流
