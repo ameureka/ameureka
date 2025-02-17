@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I’m Ameureka ,
 - 👀 I’m interested in AI
-- 🌱 I am currently working in the field of cloud computing and generative artificial intelligence
+- 🌱 I am currently working in the field of cloud computing and generative artificial intelligence.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
