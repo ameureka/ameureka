@@ -69,10 +69,9 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
 
 
 - [**AI Video - i am Ameureka,We can see the future**](https://www.youtube.com/watch?v=fv93Lxr98vw) | Watch AI-generated video demos and tutorials on YouTube
+
+   ![pic-ai gen video](https://github.com/ameureka/ameureka/blob/main/files/video-iameureka.png)
   
-
-
-
 
 ## 🏘️ **图书**
 
