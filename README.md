@@ -97,30 +97,32 @@ You can click the Preview link to take a look at your changes.
 - 工业设计、交互设计
 
 ## 🤖 **焦点**：
-- 目前独立从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅
-- 论文解读 | 发展梳理 | 视频制作
+- 目前从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅ 全栈✅
+- 论文解读 | 发展梳理 | 创作实践
 
 ## 🏗️**重心**
-- ComfyUI 生态：
-  
-  ![screenshot-20240625-170319](https://github.com/user-attachments/assets/f46f769d-f168-454c-9c7b-ed8bcd727c1d)
-
-    - [ComfyUI Community Summit（CCS）](https://comfycommunity.com/)| ComfyUI 全球社区峰会
-    - [ComfyPark](comfypark.cn) 社区
+- [**ComfyUI 实践与探索**](https://aigcbook.ameureka.com/di-wu-zhang-gong-zuo-liu-yin-qing-zhong-ji-jie-dian-mo-xing-cha-jian) 
+    - 源码解读
+    - 设计工作流
+    - 模型与节点管理指南
+    - SD 模型微调与Lora 训练
+- Vercel 边缘云计算全栈实践
     - 编写、汉化或优化自定义节点
     - 设计工作流
     - 已完成 2000+ 节点测试
     - 未来推出ComfyUI的一个优化版本
-- AIGC 理论发展与梳理
-
-
+- AIGC 商业化应用探索
+    - 编写、汉化或优化自定义节点
+    - 设计工作流
+    - 已完成 2000+ 节点测试
+    - 未来推出ComfyUI的一个优化版本
 
 
 
 ## 🌟 **技能**
 - ChatGPT（哈哈哈）
 - Python
-- NextJS / Vercel
+- Next.js / Vercel
 
 ## 🔥 **热门**
 
