@@ -65,6 +65,10 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
   
   ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
 
+- [**Generative AI**](https://genaibook.ameureka.com/) | Dify | Ollama | GPT-SoVIST | SD/Kohya | CV/Sora | AI-Agent
+  
+  ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
+
   
 
 ## 🏛️ **职业**
