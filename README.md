@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 ## ❣️ **兴趣**
 - AIGC
 - 大模型LLM&理论 | 实用主义 ✅ 
-- 产品设计 
+- 产品设计 | 第一性原理 ✅ 
 
 ## 🤖 **焦点**：
 - 目前从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅ 全栈✅
