@@ -76,20 +76,15 @@ You can click the Preview link to take a look at your changes.
   [![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)](https://genaibook.ameureka.com/)
 
 ## 🏛️ **商业化**
-- 架构师 | 云计算与AIGC
-- 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
+- 略
 
 ## 🏛️ **职业**
 - 架构师 | 云计算与AIGC
-- 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
-- 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
-
 
 ## ❣️ **兴趣**
 - AIGC
-- 建筑设计&理论 | Archigram ✅ 结构主义✅
-- 艺术 | 蔡国强✅
-- 工业设计、交互设计
+- 大模型LLM&理论 | 实用主义 ✅ 
+- 产品设计 
 
 ## 🤖 **焦点**：
 - 目前从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅ 全栈✅
@@ -106,17 +101,12 @@ You can click the Preview link to take a look at your changes.
     - 模型微调
     - AI-agent实践
 - Vercel 边缘云计算全栈实践
-    - 编写、汉化或优化自定义节点
-    - 设计工作流
-    - 已完成 2000+ 节点测试
-    - 未来推出ComfyUI的一个优化版本
 - AIGC 商业化应用探索
-    - 编写、汉化或优化自定义节点
-    - 设计工作流
-    - 已完成 2000+ 节点测试
-    - 未来推出ComfyUI的一个优化版本
-
-
+    - 产品MVP打造与验证
+    - 开源社区产品商业化探索
+    - 成熟产品商业化运营路径
+    - 市场商业化路径思考
+    - 大模型时代产品经理素养
 
 ## 🌟 **技能**
 - ChatGPT（哈哈哈）
