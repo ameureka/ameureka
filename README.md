@@ -16,21 +16,21 @@ You can click the Preview link to take a look at your changes.
 [中文](README.md) | [English](README.en.md)
 
 <!---
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=ZHO-ZHO-ZHO&show_icons=true)
+![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=ameureka&show_icons=true)
 --->
 <!---
-![](https://komarev.com/ghpvc/?username=ZHO-ZHO-ZHO)
+![](https://komarev.com/ghpvc/?username=ameureka)
 --->
 <!---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.仓库名)
 --->
 <!---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZHO-ZHO-ZHO)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka)](https://github.com/ashutosh00710/github-readme-activity-graph)
 --->
 <!---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZHO-ZHO-ZHO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZHO-ZHO-ZHO)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ameureka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://trendshift.io/repositories/7226" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7226" alt="ZHO-ZHO-ZHO%2FComfyUI-InstantID | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
