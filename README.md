@@ -59,16 +59,8 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
 ## 🏘️ **社区**
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| 开源图书分享
  
-  ![CCS 2025 新年快乐 拷贝](https://github.com/user-attachments/assets/42339426-1b31-4bec-b3dd-ddc4d946e13d)
 
-
-  <img alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/5ce1ad02-ed32-4ee4-8270-051731d2e822">
-
-  
-
-  ![CCS东京站合作伙伴手册-0909_页面_24](https://github.com/user-attachments/assets/3eeef8e4-8c4b-43aa-a592-ce6661c07cd0)
-
-
+## 🏘️ **图书**
 - [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | 大模型 | 原理/系统教程 | 安装/部署 | 工作流/创作 | 商业化
   
   ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
