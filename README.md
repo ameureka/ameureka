@@ -69,25 +69,20 @@ You can click the Preview link to take a look at your changes.
 
 - [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | 大模型 | 原理/系统教程 | 安装/部署 | 工作流/创作 | 商业化
   
-  ![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)
+  [![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)](https://aigcbook.ameureka.com/)
 
 - [**Generative AI**](https://genaibook.ameureka.com/) | Dify | Ollama | GPT-SoVIST | SD/Kohya | CV/Sora | AI-Agent
   
-  ![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)
+  [![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)](https://genaibook.ameureka.com/)
 
 ## 🏛️ **商业化**
 - 架构师 | 云计算与AIGC
 - 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
-- 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
-  
-  ![微信图片_20240919021302](https://github.com/user-attachments/assets/299cfc24-a14f-43df-a22f-676a0c953c8e)
 
 ## 🏛️ **职业**
 - 架构师 | 云计算与AIGC
 - 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
 - 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
-  
-  ![微信图片_20240919021302](https://github.com/user-attachments/assets/299cfc24-a14f-43df-a22f-676a0c953c8e)
 
 
 ## ❣️ **兴趣**
