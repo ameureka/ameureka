@@ -1,17 +1,17 @@
 <!---
-- 👋 Hi, I’m Zho ,
+- 👋 Hi, I’m Ameureka ,
 - 👀 I’m interested in AI
-- 🌱 I’m currently Working on ComfyUI
+- 🌱 I am currently working in the field of cloud computing and generative artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-ZHO-ZHO-ZHO/ZHO-ZHO-ZHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ameureka/ameureka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-## 👋 Hi，我是 Zho ！
+## 👋 Hi，我是 Ameureka ！
 
 [中文](README.md) | [English](README.en.md)
 
