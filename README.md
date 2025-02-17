@@ -113,15 +113,20 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
     - 未来推出ComfyUI的一个优化版本
 - AIGC 理论发展与梳理
 
+
+
+
+
 ## 🌟 **技能**
 - ChatGPT（哈哈哈）
 - Python
+- NextJS / Vercel
 
 ## 🔥 **热门**
 
-- Main 主库：
+- Vercel 项目：
 
-    - **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 22 类 54 项）,已新增 SD3 Medium 工作流
+    - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
 
     - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 
@@ -130,7 +135,7 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
 - 邮箱：lynnwongchina@gmail.com
 
 ## 🔗 **社交媒体**：
-- 个人页：[-Zho-](https://portfolio.ameureka.com/)
+- 个人页：[-Ameureka-](https://portfolio.ameureka.com/)
 - youtube：[我的youtube主页](https://www.youtube.com/@ameureka-ai)
 - X（Twitter）：[我的Twitter](https://x.com/am_eureka)
 - 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/5df6e93200000000010051d0?tab=note&subTab=note)
