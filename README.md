@@ -63,11 +63,11 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
 ## 🏘️ **图书**
 - [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | 大模型 | 原理/系统教程 | 安装/部署 | 工作流/创作 | 商业化
   
-  ![screenshot-20240919-020432](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)
+  ![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)
 
 - [**Generative AI**](https://genaibook.ameureka.com/) | Dify | Ollama | GPT-SoVIST | SD/Kohya | CV/Sora | AI-Agent
   
-  ![screenshot-20240919-020432](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)
+  ![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)
 
   
 
