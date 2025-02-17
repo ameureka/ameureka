@@ -61,6 +61,12 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
  
 
 ## 🏘️ **图书**
+- 📖 开源图书：知识共享，让学习更自由
+- 在信息时代，知识的传播方式正在被重新定义。开源图书不仅是一种共享学习资源的方式，更是一种开放、协作、共创的精神体现。
+- 降低学习门槛，让更多人接触到优质的知识资源。
+- 激发社区智慧，让每个人都能为内容贡献自己的见解。
+- 促进知识传播，推动更广泛的技术与思想交流。
+
 - [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | 大模型 | 原理/系统教程 | 安装/部署 | 工作流/创作 | 商业化
   
   ![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)
