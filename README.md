@@ -68,9 +68,11 @@ alt="ameureka%AI-twitterbio | Trendshift" style="width: 250px; height: 55px;" wi
    ![pic-photoblog community](https://github.com/ameureka/ameureka/blob/main/files/photoblog.png)
 
 
-- [**AI Video Channel**](https://www.youtube.com/s9899de) | Watch AI-generated video demos and tutorials on YouTube
+- [**AI Video - i am Ameureka,We can see the future**](https://www.youtube.com/watch?v=fv93Lxr98vw) | Watch AI-generated video demos and tutorials on YouTube
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s9899de" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ## 🏘️ **图书**
 
