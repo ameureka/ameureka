@@ -100,6 +100,7 @@ You can click the Preview link to take a look at your changes.
 - [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
     - [**论文解读**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
     - 模型微调
+    - 提示词工程
     - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate) 
 - Vercel 边缘云计算全栈实践
 - AIGC 商业化应用探索
@@ -120,7 +121,12 @@ You can click the Preview link to take a look at your changes.
 
     - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
 
-    - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
+    - **🆕[Vercel-Portfolio-Pageview](https://github.com/ameureka/Portfolio-Pageview)**: 通过Next.js/ Upstash /Vercel / Tailwind CSS
+
+
+    - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
+
+     - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
 
 
 ## 📬 **联系我**：
