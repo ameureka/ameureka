@@ -84,7 +84,8 @@ You can click the Preview link to take a look at your changes.
 ## ❣️ **兴趣**
 - AIGC
 - 大模型LLM&理论 | 实用主义 ✅ 
-- 产品设计 | 第一性原理 ✅ 
+- 产品设计 | 第一性原理 ✅
+- 商业化 | 先进生产工具x先进生产关系 ✅ 
 
 ## 🤖 **焦点**：
 - 目前从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅ 全栈✅
@@ -97,9 +98,9 @@ You can click the Preview link to take a look at your changes.
     - 模型与节点管理指南
     - [**SD 模型微调与Lora 训练**](https://genaibook.ameureka.com/chapter-4-sd-model-inference) 
 - [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
-    - 论文解读
+    - [**论文解读**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
     - 模型微调
-    - AI-agent实践
+    - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate) 
 - Vercel 边缘云计算全栈实践
 - AIGC 商业化应用探索
     - 产品MVP打造与验证
