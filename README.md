@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
     - [**SD 模型微调与Lora 训练**](https://genaibook.ameureka.com/chapter-4-sd-model-inference) 
 - [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
     - [**论文解读**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
-    - 模型微调
+    - [**模型微调整**](https://github.com/ameureka/unsloth_Lllama_deepseek)
     - 提示词工程
     - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate) 
 - Vercel 边缘云计算全栈实践
@@ -117,16 +117,15 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 **热门**
 
+- LLM  项目：
+  
+    - **🆕[unsloth-Lllama-Deepseek](https://github.com/ameureka/unsloth_Lllama_deepseek)**: 通过的Unsloth 快速上手微调一个Deepseek思维链的模型。
+    - 
 - Vercel 项目：
 
     - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
 
     - **🆕[Vercel-Portfolio-Pageview](https://github.com/ameureka/Portfolio-Pageview)**: 通过Next.js/ Upstash /Vercel / Tailwind CSS
-
-
-    - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
-
-     - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
 
 
 ## 📬 **联系我**：
