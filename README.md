@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏛️ **商业化**
 - [**新技术在toB 业务视角下MVP 落地关键因素**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) | 需求 ｜ 先进生产力*先进生产关系
   
-  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/AI%E6%8A%80%E6%9C%AF%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8F%90%E5%8D%87%E7%9A%84%E5%85%B3%E9%94%AE%E8%A6%81%E7%B4%A0%20-%20visual%20selection.svg)](https://aigcbook.ameureka.com/)
+  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/AI%E6%8A%80%E6%9C%AF%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8F%90%E5%8D%87%E7%9A%84%E5%85%B3%E9%94%AE%E8%A6%81%E7%B4%A0%20-%20visual%20selection.svg)](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md)
 
 ## 🏛️ **职业**
 - 架构师 | 云计算与AIGC
