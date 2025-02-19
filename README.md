@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 - AIGC 商业化应用探索
     - [**大模型时代产品成功要素**](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
     - [**产品MVP打造与验证**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) 
-    - [**开源社区产品商业化探索**]
+    - [**开源社区产品商业化探索**](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A2%86%E5%9F%9F%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E4%B8%8B%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.md) 
     - [**成熟产品商业化运营路径**]
     - 市场商业化路径思考
 
