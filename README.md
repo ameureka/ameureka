@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 **开源体系**
 
-  ![IMG_3289](https://github.com/user-attachments/assets/151c10cf-d927-4650-8fb1-419df00f843b)
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/plateoperation.png)
 
 
 ## 🏘️ **社区**
