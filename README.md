@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
     - 开源社区产品商业化探索
     - 成熟产品商业化运营路径
     - 市场商业化路径思考
-    - 大模型时代产品经理素养
+    - [**大模型时代产品成功要素**] (https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
 
 ## 🌟 **技能**
 - ChatGPT（哈哈哈）
