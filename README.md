@@ -55,9 +55,11 @@ You can click the Preview link to take a look at your changes.
    [![pic-photoblog community](https://github.com/ameureka/ameureka/blob/main/files/photoblog.png)](https://photoblog.ameureka.com/) 
 
 
-- [**AI Video - i am Ameureka,We can see the future**](https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4) | Watch AI-generated video demos and tutorials on YouTube
+- <a href="https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4" target="_blank" rel="noopener noreferrer"><strong>AI Video - i am Ameureka,We can see the future</strong></a> | Watch AI-generated video demos and tutorials on YouTube
 
-   [![pic-ai gen video](https://github.com/ameureka/ameureka/blob/main/files/video-iameureka.png)](https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4)
+   <a href="https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/video-iameureka.png" alt="pic-ai gen video" style="max-width: 100%;">
+   </a>
   
 
 ## 🏘️ **图书**
