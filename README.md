@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 ## ❣️ **兴趣**
 - AIGC
 - 大模型LLM&理论 | 实用主义 ✅ 
-- 产品设计 | 第一性原理 ✅
+- 产品 | 第一性原理 ✅
 - 商业化 | 先进生产工具x先进生产关系 ✅ 
 
 ## 🤖 **焦点**：
@@ -110,9 +110,11 @@ You can click the Preview link to take a look at your changes.
 - [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
     - [**论文解读**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
     - [**模型微调整**](https://github.com/ameureka/unsloth_Lllama_deepseek)
-    - 提示词工程
-    - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate) 
+    - [**提示词工程**](https://github.com/ameureka/promptMinder)
+    - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate)
+    - [**AI智能体全栈项目-调研智能体**](https://github.com/ameureka/ai-deepresearch-agent) 
 - Vercel 边缘云计算全栈实践
+    - [**nano-bananary-playground**](https://github.com/ameureka/nano-bananary-playground) 
 - AIGC 商业化应用探索
     - [**大模型时代产品成功要素**](https://github.com/ameureka/Product_Co_Meth/blob/main/003%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
     - [**产品MVP打造与验证**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) 
@@ -123,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌟 **技能**
-- ChatGPT（哈哈哈）
+- ChatGPT/Gemini/claude code（哈哈哈）
 - Python
 - Next.js / Vercel
 
@@ -145,9 +147,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔗 **社交媒体**：
 - 个人页：[-Ameureka-](https://portfolio.ameureka.com/)
-- youtube：[我的youtube主页](https://www.youtube.com/@ameureka-ai)
 - X（Twitter）：[我的Twitter](https://x.com/am_eureka)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/5df6e93200000000010051d0?tab=note&subTab=note)
 
 ## 📅 **未来计划**：
 - 通过AI-agent自动开放共享AI咨询
