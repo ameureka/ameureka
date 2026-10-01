@@ -28,45 +28,40 @@ You can click the Preview link to take a look at your changes.
 ## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
 
   ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
-- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
-<---
+- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。
 - 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
 - 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
 - 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
 - [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
---->
-## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
 
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
-- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
-<---
-- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
-- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
-- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
-- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
---->
-## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
+## 🏘️ 02 · 技术表达与交付 — present-waza-agent
 
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
-- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
-<---
-- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
-- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
-- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
-- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
---->
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Ideas%20to%20Keynotes.png)
+- 将技术演讲拆成材料结构化、叙事设计、页级规格、版本打磨与上台准备，形成可供 Agent 使用的交付流程。
+- 知识组织 🎭 —— 先确定核心主张与证据，再设计每页的论点、视觉表达和口播内容。
+- 交付工具 🛠️ —— 基于 Python / python-pptx 提供构建与合并工具，以及 PPTX 审计、评分汇总和提词器生成脚本。
+- 质量机制 🤝 —— 回归用例覆盖 CLI 退出码、输入保护、分页和合并；CI 配置覆盖三个操作系统与两个 Python 版本。
+- [合成案例](https://github.com/ameureka/present-waza-agent/blob/main/examples/synthetic-case-iot-identity-keynote.md) · [交付脚本](https://github.com/ameureka/present-waza-agent/tree/main/skills/keynote-pipeline/scripts) · [测试与 CI](https://github.com/ameureka/present-waza-agent/blob/main/.github/workflows/test.yml)
 
-## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
-
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
-- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
-<---
-- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
-- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
-- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
-- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
---->
   
+## 🏘️ 03 · 研究工作流与证据管理 — open-waza-agent
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Evidence%20to%20Insight.png)
+- 把问题定义、证据整理、论证修订和文档交付组织成一条可检查的研究流程。
+- 证据建模 🎭 —— 显式记录来源、论断、交付物和修正，用版本与文件哈希绑定审阅内容。
+- 自动化边界 🛠️ —— 研究由人或宿主 Agent 执行；Python 工具负责证据登记检查、文本质量检查、章节合并与 Word 导出。
+- 可复现入口 🤝 —— 提供离线合成示例、失败路径测试，以及保护人工 Word 修订的流程。
+- [证据契约](https://github.com/ameureka/open-waza-agent/blob/main/docs/evidence.md) · [完整合成示例](https://github.com/ameureka/open-waza-agent/tree/main/examples/full-report) · [回归测试](https://github.com/ameureka/open-waza-agent/tree/main/tests)
+
+## 🏘️ 04 · Agent Skills 与开发工具 — ameureka-skills
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reusable%20Agent%20Skills.png)
+- 把项目中反复使用的推理、审计、规格与协作方法整理为可组合的 Skills，并配套独立工具。
+- 7 个 Skills 🎭 —— 规格驱动开发、盲区审计、需求矩阵、第一性原理推理、长任务提示词、企业架构图与 Agent 交接。
+- 2 个 CLI 工具 🛠️ —— 图像生成客户端 `gpt-imageflow`，以及带截图检查与报告的 HTML → PPTX 工具链 `present-met-ppt-kit`。
+- 复用设计 🤝 —— 明确每个工作流的输入输出、停止条件、外部依赖和使用边界。
+- [Skills 目录](https://github.com/ameureka/ameureka-skills/tree/main/skills) · [图像工具](https://github.com/ameureka/ameureka-skills/tree/main/tools/gpt-imageflow) · [PPTX 工具链](https://github.com/ameureka/ameureka-skills/tree/main/tools/present-met-ppt-kit)
+
 ## 🏛️ **职业**
 - 架构师 | 云计算与AIGC
 
