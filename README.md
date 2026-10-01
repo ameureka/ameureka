@@ -4,90 +4,69 @@
 - 🌱 I am currently working in the field of cloud computing and generative artificial intelligence.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-
 ameureka/ameureka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 ## 👋 Hi，我是 Ameureka ！
 
 [中文](README.md) | [English](README.en.md)
 
-<!---
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=ameureka&show_icons=true)
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Ameureka%20AI%20Agent%20Architect.png)
+- 我关注如何把大模型能力组织成可验证、可复用的工作流，并接入产品与业务交付。我的实践覆盖 LLM 微调、多智能体研究、图像与视频生成、全栈应用，以及 AI 辅助研发。
+近期，我把这些实践集中到三件事上：约束 Agent 的执行过程、让研究结论能够追溯证据、把专业知识转化为可复用的工具与交付流程。
+
+## 🏆 **代表项目**
+
+| 项目 | 解决的问题 | 工程重点 |
+| --- | --- | --- |
+| [**open-source-ssd**](https://github.com/ameureka/open-source-ssd) | 如何验收 AI 编程助手的交付 | Harness Engineering、规格驱动开发、全栈脚手架 |
+| [**present-waza-agent**](https://github.com/ameureka/present-waza-agent) | 如何把分散材料变成可上台的技术演讲 | 叙事与页级规格、PPTX 工具、评分与彩排 |
+| [**open-waza-agent**](https://github.com/ameureka/open-waza-agent) | 如何把研究过程变成有证据、可审阅的报告 | 证据契约、版本修订、质量检查、Word 交付 |
+| [**ameureka-skills**](https://github.com/ameureka/ameureka-skills) | 如何复用 AI 协作中的方法与工具 | 7 个工作流 Skills、2 个独立 CLI 工具 |
+
+## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
+- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
+<---
+- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
+- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
+- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
+- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
 --->
-<!---
-![](https://komarev.com/ghpvc/?username=ameureka)
+## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
+- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
+<---
+- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
+- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
+- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
+- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
 --->
-<!---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.仓库名)
+## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
+- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
+<---
+- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
+- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
+- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
+- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
 --->
-<!---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏘️ 01 · AI 研发全栈工程化 — open-source-ssd
+
+  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/Reliable%20AI%20Delivery.png)
+- 把内容规划、品牌规划、审计、需求矩阵、长任务执行与规格实施连接起来，为 AI 编程提供明确的输入、产物和验收条件。。
+<---
+- 流程设计 🎭 —— 任务拆解、停止条件、设计规范与发布 Runbook，让开发和交付有可追踪的依据。
+- 工程实现 🛠️ —— Next.js / TypeScript 全栈模板，配合检查配置、Server Action 边界、依赖与国际化资源的门禁脚本。
+- 经验沉淀 🤝 —— 公开工程复盘、架构图和交互式流程图，记录机制设计与实际落地之间的差距。
+- [全栈模板](https://github.com/ameureka/open-source-ssd/tree/main/template) · [门禁实现](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [工程实践复盘](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
 --->
-<!---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
---->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ameureka)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!---
-精简版
---->
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/plateoperation.png)
-## 🏆 **开源体系**
-
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/plateoperation.png)
-
-
-## 🏘️ **社区**
-
-- 在这个创意与技术交汇的时代，AIGC（人工智能生成内容）正在改变图像与视频创作的方式。基于 ComfyUI、Sora、可灵等先进的 AI 生成工具，探索 AI 在视觉艺术领域的无限可能。
-<!---
-- 共享创意 🎭 —— 让更多人了解并学习 AIGC 的创作流程。
-- 技术探索 🛠️ —— 通过开源代码和实践，推动 AI 生成技术的发展。
-- 社区协作 🤝 —— 欢迎参与，共同完善、改进生成效果，探索更多应用场景。
---->
-- [**ComfyUI Photoblog Community**](https://photoblog.ameureka.com/) | This is a photo podcast showcasing images generated by generative AI
-
-   [![pic-photoblog community](https://github.com/ameureka/ameureka/blob/main/files/photoblog.png)](https://photoblog.ameureka.com/) 
-
-
-- <a href="https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4" target="_blank" rel="noopener noreferrer"><strong>AI Video - i am Ameureka,We can see the future</strong></a> | Watch AI-generated video demos and tutorials on YouTube
-
-   <a href="https://portfolior2.ameureka.com/portfilio_page_video/brand_video20241017.mp4" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/video-iameureka.png" alt="pic-ai gen video" style="max-width: 100%;">
-   </a>
   
-
-## 🏘️ **图书**
-
-- 📖 开源图书：知识共享，让学习更自由
-<!---
-- 在信息时代，知识的传播方式正在被重新定义。开源图书不仅是一种共享学习资源的方式，更是一种开放、协作、共创的精神体现。
-- 降低学习门槛，让更多人接触到优质的知识资源。
-- 激发社区智慧，让每个人都能为内容贡献自己的见解。
-- 促进知识传播，推动更广泛的技术与思想交流。
---->
-- [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | 大模型 | 原理/系统教程 | 安装/部署 | 工作流/创作 | 商业化
-  
-  [![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)](https://aigcbook.ameureka.com/)
-
-- [**Generative AI**](https://genaibook.ameureka.com/) | Dify | Ollama | GPT-SoVIST | SD/Kohya | CV/Sora | AI-Agent
-  
-  [![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)](https://genaibook.ameureka.com/)
-
-## 🏛️ **商业化**
-- [**新技术在toB 业务视角下MVP 落地关键因素**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) | 需求 ｜ 先进生产力*先进生产关系
-  
-  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/AI%E6%8A%80%E6%9C%AF%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8F%90%E5%8D%87%E7%9A%84%E5%85%B3%E9%94%AE%E8%A6%81%E7%B4%A0%20-%20visual%20selection.svg)](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md)
-
-  - [**大模型时代产品成功的关键**](https://github.com/ameureka/Product_Co_Meth/blob/main/003%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md) | 潜在成功领域 ｜ LLM 增强价值*（专业知识+用户关系）｜客户成功+商业策略
-  
-  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%20(LLMs)%20%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE%20-%20visual%20selection.svg)](https://github.com/ameureka/Product_Co_Meth/blob/main/003%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
-
 ## 🏛️ **职业**
 - 架构师 | 云计算与AIGC
 
@@ -96,35 +75,6 @@ You can click the Preview link to take a look at your changes.
 - 大模型LLM&理论 | 实用主义 ✅ 
 - 产品 | 第一性原理 ✅
 - 商业化 | 先进生产工具x先进生产关系 ✅ 
-
-## 🤖 **焦点**：
-- 目前从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅ 全栈✅
-- 论文解读 | 发展梳理 | 创作实践
-
-## 🏗️**重心**
-- [**ComfyUI 实践与探索**](https://aigcbook.ameureka.com/di-wu-zhang-gong-zuo-liu-yin-qing-zhong-ji-jie-dian-mo-xing-cha-jian) 
-    - 源码解读
-    - 设计工作流
-    - 模型与节点管理指南
-    - [**SD 模型微调与Lora 训练**](https://genaibook.ameureka.com/chapter-4-sd-model-inference) 
-- [**大模型LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
-    - [**论文解读**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
-    - [**模型微调整**](https://github.com/ameureka/unsloth_Lllama_deepseek)
-    - [**提示词工程**](https://github.com/ameureka/promptMinder)
-    - [**AI-agent实践**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate)
-    - [**AI智能体全栈项目-调研智能体**](https://github.com/ameureka/ai-deepresearch-agent) 
-- Vercel 边缘云计算全栈实践
-    - [**nano-bananary-playground**](https://github.com/ameureka/nano-bananary-playground) 
-- AIGC 商业化应用探索
-    - [**大模型时代产品成功要素**](https://github.com/ameureka/Product_Co_Meth/blob/main/003%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
-    - [**产品MVP打造与验证**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) 
-    - [**开源社区产品商业化探索**](https://github.com/ameureka/Product_Co_Meth/blob/main/002%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A2%86%E5%9F%9F%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E4%B8%8B%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.md) 
-    - [**成熟产品商业化运营路径**]
-    - 市场商业化路径思考
-
-
-
-
 
 ## 🔥 **更广的AI实践**
 
