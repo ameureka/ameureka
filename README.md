@@ -124,34 +124,28 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🌟 **技能**
-- ChatGPT/Gemini/claude code（哈哈哈）
-- Python
-- Next.js / Vercel
 
-## 🔥 **热门**
 
-- LLM  项目：
-  
-    - **🆕[unsloth-Lllama-Deepseek](https://github.com/ameureka/unsloth_Lllama_deepseek)**: 通过的Unsloth 快速上手微调一个Deepseek思维链的模型。
-    - 
-- Vercel 项目：
+## 🔥 **更广的AI实践**
 
-    - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: 通过Next.js/ Postgres / NextAuth.js /Vercel / Tailwind CSS 构建个人Blog
+| 方向 | 项目与实践 |
+| --- | --- |
+| **多智能体与全栈应用** | [ai-deepresearch-agent](https://github.com/ameureka/ai-deepresearch-agent)：规划、研究、写作与编辑角色协作；Next.js + FastAPI、SSE 进度反馈、模型适配与回退。 |
+| **LLM 微调与本地推理** | [Unsloth_Lllama_deepseek](https://github.com/ameureka/Unsloth_Lllama_deepseek)：围绕 Llama 3.1 8B 的数据准备、微调、推理、模型保存与 Ollama 导出实践。 |
+| **多模态应用** | [nano-bananary-playground](https://github.com/ameureka/nano-bananary-playground)：基于 Next.js / React / Gemini 的图像与视频生成应用，覆盖生成、编辑与资产管理。 |
+| **产品与商业化研究** | [Product_Co_Meth](https://github.com/ameureka/Product_Co_Meth)：整理企业场景的 MVP 验证、LLM 产品价值与开源商业模式分析。 |
 
-    - **🆕[Vercel-Portfolio-Pageview](https://github.com/ameureka/Portfolio-Pageview)**: 通过Next.js/ Upstash /Vercel / Tailwind CSS
+这些工程实践也延续了我在 **ComfyUI、Stable Diffusion / LoRA、AIGC 图像与视频创作、教程与知识整理**方面的积累。我习惯把探索过程留下来，整理成后来可以复查、复用的方法与代码。
 
+## 🌟 **技术与工作方式**
+- Agent 工程：工作流编排、工具调用、Skills、规格驱动开发、证据与验收设计。
+- 应用开发：Python、TypeScript、Next.js / React、FastAPI、PostgreSQL、Docker、Vercel。
+- 模型与生成：LLM 微调、Unsloth / Ollama、ComfyUI / LoRA、多模态 API 集成。
+- 我重视三个工程习惯：把需求写成可验收的约定；把结论关联到代码、来源或运行结果；把复盘转成下一次可以执行的检查与流程。
 
 ## 📬 **联系我**：
-- 邮箱：lynnwongchina@gmail.com
+- 欢迎交流 AI / Agent 架构、研发工具链与生成式 AI 应用落地。
+- 邮箱：slicesarah8@gmail.com
 
-## 🔗 **社交媒体**：
-- 个人页：[-Ameureka-](https://portfolio.ameureka.com/)
-- X（Twitter）：[我的Twitter](https://x.com/am_eureka)
 
-## 📅 **未来计划**：
-- 通过AI-agent自动开放共享AI咨询
-- 推出基于Unsloth的模型微调系列课程
-- 基于Vercel+Ollama+Deepseek商业化系列
-- Ameueka Community Summit
 
