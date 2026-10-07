@@ -49,7 +49,7 @@
 
 ### 01 · 体系教程：大模型工程化与生产治理 — [Tutorials-for-the-Harness-series](https://github.com/ameureka/Tutorials-for-the-Harness-series)
 
-<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Harness%20Engineering%20Architecture.jpg" alt="Harness Engineering Architecture" width="100%" />
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Harness%20Engineering%20Architecture.png" alt="Harness Engineering Architecture" width="100%" />
 
 - **体系定位**：覆盖大模型从认知升级到生产落地的完整进阶教程，直击提示词不可控、黑盒幻觉、上下文膨胀三大核心瓶颈。
 - **理论基座 📐** —— 确立“输入限制 + 状态跟踪 + 边界门禁”的 Harness 工程框架，以可量化的工程约束替代不确定的自然语言祈祷。

@@ -49,7 +49,7 @@ I specialize in integrating large language models into enterprise-grade software
 
 ### 01 · Flagship Curriculum: LLM Production Engineering — [Tutorials-for-the-Harness-series](https://github.com/ameureka/Tutorials-for-the-Harness-series)
 
-<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Harness%20Engineering%20Architecture.jpg" alt="Harness Engineering Architecture" width="100%" />
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Harness%20Engineering%20Architecture.png" alt="Harness Engineering Architecture" width="100%" />
 
 - **Overview**: An end-to-end curriculum bridging the gap between theoretical AI understanding and enterprise-grade software delivery. Addresses prompt brittleness, black-box hallucinations, and context pollution.
 - **Theoretical Foundations 📐** —— Establishes the Harness paradigm: "Input Constraining + State Tracking + Assertion Gates", substituting vague prompts with deterministic constraints.
