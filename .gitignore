@@ -1,0 +1,10 @@
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp

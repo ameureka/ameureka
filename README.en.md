@@ -1,249 +1,133 @@
-<!---
+<div align="center">
 
-- 👋 Hi, I’m Ameureka ,
+# 👋 Hi, I'm Ameureka (Yalin Wang)
 
-- 👀 I’m interested in AI
+### AI Systems Architect | Harness Engineering Practitioner | Open Source Builder
 
-- 🌱 I am currently working in the field of cloud computing and generative artificial intelligence.
+<p align="center">
+  <a href="README.md"><b>简体中文</b></a> •
+  <a href="README.en.md"><b>English</b></a>
+</p>
 
-- 💞️ I’m looking to collaborate on ...
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Harness%20Engineering-1e293b?style=flat-square&logo=blueprint" alt="Harness Engineering" />
+  <img src="https://img.shields.io/badge/Philosophy-Spec--Driven%20Delivery-0284c7?style=flat-square" alt="Spec-Driven" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Python%20%7C%20Next.js-10b981?style=flat-square" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/License-CC--BY--4.0%20%2F%20MIT-f59e0b?style=flat-square" alt="License" />
+</p>
 
-- 📫 How to reach me ...
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Ameureka%20AI%20Agent%20Architect.png" alt="Ameureka AI Agent Architect Banner" width="100%" />
 
-ameureka/ameureka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-You can click the Preview link to take a look at your changes.
+---
 
---->
+### 💡 Engineering Philosophy
 
+> **"Moving from prompt tinkering to Harness Systems Engineering: Rejecting probabilistic guessing via natural language prompts, and building verifiable, deterministic agent systems with formal contracts, state machines, and automated gating."**
 
-## 👋 Hi, I’m Ameureka !
+I specialize in integrating large language models into enterprise-grade software delivery pipelines and production systems. My engineering focus is anchored on three core pillars:
+1. **Execution Boundary Constraints**: Preventing non-deterministic agent drift through rigorous input contracts and state-machine transitions.
+2. **Audit-Ready Evidence Traceability**: Guaranteeing that research conclusions and code deliverables are immutably tied to cryptographic content hashes and source evidence.
+3. **Distillation into Infrastructure**: Codifying complex human reasoning into reusable CI test gates, composable Agent Skills, and automated CLI toolchains.
 
-[中文](README.md) | [English](README.en.md)
+---
 
-<!---
+## 🏆 Featured Engineering Systems
 
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=ameureka&show_icons=true)
+| Core Project | Target Problem & Scope | Key Engineering Highlights |
+| :--- | :--- | :--- |
+| 📘 [**Tutorials-for-the-Harness-series**](https://github.com/ameureka/Tutorials-for-the-Harness-series) | **Comprehensive LLM & Agent Engineering Curriculum**<br>Transitioning developers from trial-and-error prompting to mission-critical systems engineering. | 8-module full-stack roadmap, Separation-of-Powers governance, Context engineering, Production observability, CC-BY-4.0. |
+| ⚙️ [**open-source-ssd**](https://github.com/ameureka/open-source-ssd) | **Full-Stack AI Engineering Standard (SSD)**<br>Enabling verifiable long-horizon code delivery and rigorous acceptance gates for AI coding agents. | Harness Engineering, Spec-Driven Development, Next.js full-stack scaffold, deterministic assertion linters. |
+| 📑 [**present-waza-agent**](https://github.com/ameureka/present-waza-agent) | **Technical Communication & Keynote Delivery Agent**<br>Transforming raw architectural blueprints and research artifacts into stage-ready slide decks. | Narrative contracts, slide-level specs, automated `python-pptx` builder, teleprompter extraction, cross-platform CI. |
+| 🔬 [**open-waza-agent**](https://github.com/ameureka/open-waza-agent) | **Research Workflow & Evidence Governance System**<br>Eliminating LLM hallucinations by binding analytical claims to an immutable chain of custody. | Evidence contracts, SHA-256 fingerprint verification, deterministic quality audit, and Word pipeline. |
+| 🧩 [**ameureka-skills**](https://github.com/ameureka/ameureka-skills) | **Enterprise Agent Skills Library & Tooling CLI**<br>Packaging reusable reasoning patterns and collaboration workflows into plug-and-play skills. | 7 production-tested workflow skills, `gpt-imageflow` client, and HTML-to-PPTX automated toolchain. |
 
---->
+---
 
-<!---
-![](https://komarev.com/ghpvc/?username=ameureka)
+## 📦 In-Depth Architectural Breakdowns
 
---->
+### 01 · Flagship Curriculum: LLM Production Engineering — [Tutorials-for-the-Harness-series](https://github.com/ameureka/Tutorials-for-the-Harness-series)
 
-<!---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.仓库名)
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Harness%20Engineering%20Architecture.jpg" alt="Harness Engineering Architecture" width="100%" />
 
---->
-<!---
+- **Overview**: An end-to-end curriculum bridging the gap between theoretical AI understanding and enterprise-grade software delivery. Addresses prompt brittleness, black-box hallucinations, and context pollution.
+- **Theoretical Foundations 📐** —— Establishes the Harness paradigm: "Input Constraining + State Tracking + Assertion Gates", substituting vague prompts with deterministic constraints.
+- **Governance Architecture 🛡️** —— Implements the Separation-of-Powers model (Executor Agent, Adversarial Eval Agent, and Controller Auditor) to achieve safe unattended agent execution.
+- **Production Practices 🚀** —— Deep dives into Context Engineering (compaction/compression strategies), MCP protocol integration, and APM/observability stacks.
+- [Full Curriculum Roadmap](https://github.com/ameureka/Tutorials-for-the-Harness-series) · [CC-BY-4.0 License](https://github.com/ameureka/Tutorials-for-the-Harness-series/blob/main/LICENSE) · [Read the Docs](https://github.com/ameureka/Tutorials-for-the-Harness-series/blob/main/README.md)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
---->
-<!---
+### 02 · Full-Stack AI Engineering Framework — [open-source-ssd](https://github.com/ameureka/open-source-ssd)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameureka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Reliable%20AI%20Delivery.png" alt="Reliable AI Delivery" width="100%" />
 
---->
+- **Core Thesis**: Implements the Specification-State-Distill (SSD) methodology, giving AI coding agents unambiguous inputs, explicit execution states, and verifiable exit gates.
+- **Process Design 🎭** —— Hierarchical task decomposition, deterministic stop conditions, design system constraints, and production runbooks.
+- **Implementation 🛠️** —— Next.js / TypeScript full-stack template fortified with Server Action boundaries and automated gating checks.
+- **Retrospectives 🤝** —— Documents real-world engineering trade-offs and lessons learned from mission-critical production migrations.
+- [Scaffold Template](https://github.com/ameureka/open-source-ssd/tree/main/template) · [Gate Script](https://github.com/ameureka/open-source-ssd/blob/main/template/scripts/check-gates.mjs) · [Engineering Retrospective](https://github.com/ameureka/open-source-ssd/blob/main/article/Harness-Engineering-%E5%AE%9E%E8%B7%B5.md)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ameureka)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+### 03 · Technical Communication & Keynote Agent — [present-waza-agent](https://github.com/ameureka/present-waza-agent)
 
-<!---
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Ideas%20to%20Keynotes.png" alt="Ideas to Keynotes" width="100%" />
 
-简洁版
+- **Core Thesis**: Converts technical presentations and PPTX generation from ad-hoc prompting into a structured engineering pipeline.
+- **Knowledge Organization 🎭** —— Strictly decouples core claims, evidentiary backing, and oral scripts through per-slide specification schemas.
+- **Tooling Engine 🛠️** —— Powered by Python and `python-pptx` with automated layout auditing, visual contrast scoring, and teleprompter generation.
+- **Quality Gates 🤝** —— Comprehensive test suites and GitHub Actions CI pipelines verifying cross-platform consistency across macOS, Ubuntu, and Windows.
+- [Synthetic Case Study](https://github.com/ameureka/present-waza-agent/blob/main/examples/synthetic-case-iot-identity-keynote.md) · [Pipeline Scripts](https://github.com/ameureka/present-waza-agent/tree/main/skills/keynote-pipeline/scripts) · [CI Test Suite](https://github.com/ameureka/present-waza-agent/blob/main/.github/workflows/test.yml)
 
---->
+---
 
+### 04 · Research Workflows & Evidence Governance — [open-waza-agent](https://github.com/ameureka/open-waza-agent)
 
-## 🏆 **Open Source System**
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Evidence%20to%20Insight.png" alt="Evidence to Insight" width="100%" />
 
+- **Core Thesis**: Builds a verifiable research delivery pipeline ensuring that every paragraph in technical reports is grounded in tamper-evident evidence.
+- **Evidence Modeling 🎭** —— Explicitly registers data origins, analytical derivations, and output artifacts bound to SHA-256 cryptographic hashes.
+- **Automation Boundaries 🛠️** —— Host agents handle contextual reasoning, while deterministic Python utilities enforce validation rules, linting, and DOCX assembly.
+- **Reproducibility 🤝** —— Includes end-to-end synthetic examples, negative test suites, and workflows preserving human tracked-changes.
+- [Evidence Contract](https://github.com/ameureka/open-waza-agent/blob/main/docs/evidence.md) · [Full Synthetic Report](https://github.com/ameureka/open-waza-agent/tree/main/examples/full-report) · [Regression Tests](https://github.com/ameureka/open-waza-agent/tree/main/tests)
 
-  ![IMG plateoperating](https://github.com/ameureka/ameureka/blob/main/files/plateoperation.png)
+---
 
+### 05 · Agent Skills Library & Developer Tooling — [ameureka-skills](https://github.com/ameureka/ameureka-skills)
 
+<img src="https://raw.githubusercontent.com/ameureka/ameureka/main/files/Reusable%20Agent%20Skills.png" alt="Reusable Agent Skills" width="100%" />
 
-## 🏘️ **Community**
+- **Core Thesis**: Distills battle-tested reasoning workflows, auditing rules, and collaboration patterns into composable skills and CLI utilities.
+- **7 Core Skills 🎭** —— Spec-driven development, blind-spot audits, requirement matrix mapping, long-horizon task framing, and agent handoffs.
+- **2 Dedicated CLIs 🛠️** —— `gpt-imageflow` for automated image generation workflows, and `present-met-ppt-kit` for HTML-to-PPTX conversion and quality checks.
+- [Skills Catalog](https://github.com/ameureka/ameureka-skills/tree/main/skills) · [Imageflow CLI](https://github.com/ameureka/ameureka-skills/tree/main/tools/gpt-imageflow) · [PPTX Kit](https://github.com/ameureka/ameureka-skills/tree/main/tools/present-met-ppt-kit)
 
+---
 
-- In this era where creativity and technology intersect, AIGC (Artificial Intelligence Generated Content) is changing the way images and videos are created. By using advanced AI generation tools like ComfyUI, Sora, and KeLing, we explore the limitless possibilities of AI in the visual arts field.
+## 🔬 Broader AI Ecosystem & Open Source Projects
 
-- Sharing creativity 🎭 — Let more people understand and learn the creation process of AIGC.
+| Technical Domain | Repository & Research | Key Highlights & Architecture |
+| :--- | :--- | :--- |
+| **Multi-Agent Deep Research** | [**ai-deepresearch-agent**](https://github.com/ameureka/ai-deepresearch-agent) | Decoupled orchestration of planner, researcher, writer, and editor roles; Next.js + FastAPI with real-time SSE progress streaming. |
+| **LLM Fine-Tuning & Local Inference** | [**Unsloth_Lllama_deepseek**](https://github.com/ameureka/Unsloth_Lllama_deepseek) | End-to-end instruction tuning for Llama 3.1 8B: dataset curation, QLoRA fine-tuning, GGUF quantization, and Ollama export. |
+| **Multimodal Generative Apps** | [**nano-bananary-playground**](https://github.com/ameureka/nano-bananary-playground) | Next.js / React / Gemini multimodal playground featuring asset lineage management and generative media workflows. |
+| **Product & Commercialization** | [**Product_Co_Meth**](https://github.com/ameureka/Product_Co_Meth) | Methodological blueprints exploring enterprise MVP validation, LLM productivity metrics, and open-source business models. |
 
-- Technical exploration 🛠️ — Promote the development of AI generation technology through open-source code and practice.
+---
 
-- Community collaboration 🤝 — Everyone is welcome to join and help refine and improve the generated effects, exploring more application scenarios.
+## 🛠️ Technical Radar & Architecture Stack
 
+- **AI & Agent Systems**: Harness Engineering, Spec-Driven Development, Context Engineering, MCP (Model Context Protocol), Ollama / Unsloth Fine-Tuning
+- **Full-Stack & Back-End**: TypeScript, Python, Next.js (App Router), FastAPI, Node.js, PostgreSQL, Cloudflare D1
+- **Infrastructure & Delivery**: Docker, Cloudflare Pages / Workers, Vercel Edge, GitHub Actions CI/CD, Linux / macOS
+- **Media & Document Automation**: `python-pptx`, ComfyUI / Stable Diffusion / LoRA, FFmpeg, Pandoc
 
-- [**ComfyUI Photoblog Community**](https://photoblog.ameureka.com/) | This is a photo podcast showcasing images generated by generative AI
+---
 
-   [![pic-photoblog community](https://github.com/ameureka/ameureka/blob/main/files/photoblog.png)](https://photoblog.ameureka.com/) 
+## 📬 Connect & Collaborate
 
-
-- [**AI Video - I am Ameureka, We can see the future**](https://www.youtube.com/watch?v=fv93Lxr98vw) | Watch AI-generated video demos and tutorials on YouTube
-
-
-   [![pic-ai gen video](https://github.com/ameureka/ameureka/blob/main/files/video-iameureka.png)](https://www.youtube.com/watch?v=fv93Lxr98vw)
-
-
-
-## 🏘️ **Books**
-
-
-- 📖 Open-source books: Knowledge sharing for more freedom in learning
-
-- In the information age, the way knowledge is disseminated is being redefined. Open-source books are not just a way to share learning resources but also an embodiment of openness, collaboration, and co-creation.
-
-- Lower the learning barrier and allow more people to access high-quality knowledge resources.
-
-- Inspire community wisdom, allowing everyone to contribute their insights to the content.
-
-- Promote knowledge dissemination and facilitate broader exchanges of technology and ideas.
-
-
-- [**Everyone can use AIGC**](https://aigcbook.ameureka.com/) | Large models | Principles/Systems tutorial | Installation/Deployment | Workflow/Creation | Commercialization
-
-  [![pic-everyone can use aigc](https://github.com/ameureka/ameureka/blob/main/files/Everyone%20can%20use%20AIGC.webp)](https://aigcbook.ameureka.com/)
-
-
-- [**Generative AI**](https://genaibook.ameureka.com/) | Dify | Ollama | GPT-SoVIST | SD/Kohya | CV/Sora | AI-Agent
-
- 
-  [![pic-generative ai](https://github.com/ameureka/ameureka/blob/main/files/Generative%20AI.webp)](https://genaibook.ameureka.com/)
-
-
-## 🏛️ **Commercialization**
-
-- [**Key Factors for MVP Implementation of New Technology from a ToB Business Perspective**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) | Demand ｜ Advanced productivity * Advanced production relations
-
-
-  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/AI%E6%8A%80%E6%9C%AF%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8F%90%E5%8D%87%E7%9A%84%E5%85%B3%E9%94%AE%E8%A6%81%E7%B4%A0%20-%20visual%20selection.svg)](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md)
-
-
-  - [**Key to Product Success in the Era of Large Models**](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md) | Potential success areas ｜ LLM enhanced value * (Professional knowledge + user relations) | Customer success + business strategy
-
- 
-  [![pic-mvp](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%20(LLMs)%20%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE%20-%20visual%20selection.svg)](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
-
-
-
-## 🏛️ **Career**
-
-- Architect | Cloud Computing and AIGC
-
-
-## ❣️ **Interests**
-
-- AIGC
-
-- Large models LLM & Theory | Pragmatism ✅ 
-
-- Product Design | First principles ✅
-
-- Commercialization | Advanced production tools x advanced production relations ✅ 
-
-
-## 🤖 **Focus**：
-
-- Currently engaged in AIGC research and practice | Image✅ Video✅ 3D✅ LLM✅ Full-stack✅
-
-- Paper interpretation | Development review | Creation practice
-
-
-## 🏗️**Focus Areas**
-
-- [**ComfyUI Practice and Exploration**](https://aigcbook.ameureka.com/di-wu-zhang-gong-zuo-liu-yin-qing-zhong-ji-jie-dian-mo-xing-cha-jian) 
-
-    - Source code interpretation
-
-    - Workflow design
-
-    - Model and node management guide
-
-    - [**SD Model Fine-tuning and Lora Training**](https://genaibook.ameureka.com/chapter-4-sd-model-inference) 
-
-- [**Large Model LLM**](https://aigcbook.ameureka.com/di-liu-zhang-gong-zuo-liu-dong-he-xin-gao-ji) 
-
-    - [**Paper interpretation**](https://genaibook.ameureka.com/chapter-5-computer-vision-video-generation/5.3-introduction-to-video-generation-model-sora) 
-
-    - [**Model Fine-tuning**](https://github.com/ameureka/unsloth_Lllama_deepseek)
-
-    - Prompt engineering
-
-    - [**AI-agent Practice**](https://genaibook.ameureka.com/chapter-6-ai-agent-on-goning/6.5-agent-best-practices03-replicate) 
-
-- Vercel edge cloud computing full-stack practice
-
-- AIGC commercial application exploration
-
-    - [**Key Success Factors for Products in the Era of Large Models**](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE.md)
-
-    - [**Product MVP Creation and Validation**](https://github.com/ameureka/Product_Co_Meth/blob/main/001%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9C%A8toB%20%E4%B8%9A%E5%8A%A1%E8%A7%86%E8%A7%92%E4%B8%8BMVP%20%E8%90%BD%E5%9C%B0%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.md) 
-
-    - [**Open-source Community Product Commercialization Exploration**](https://github.com/ameureka/Product_Co_Meth/blob/main/%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A2%86%E5%9F%9F%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E4%B8%8B%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.md) 
-
-    - [**Mature Product Commercialization Operation Path**]
-
-    - Market commercialization path thinking
-
-
-## 🌟 **Skills**
-
-- ChatGPT (haha)
-
-- Python
-
-- Next.js / Vercel
-
-
-## 🔥 **Popular**
-
-
-- LLM  Projects：
-  
-
-    - **🆕[unsloth-Lllama-Deepseek](https://github.com/ameureka/unsloth_Lllama_deepseek)**: Quickly fine-tune a Deepseek thinking chain model with Unsloth.
-
-
-- Vercel Projects：
-
-
-
-    - **🆕[Vercel-Portfolioblog](https://github.com/ameureka/PortfolioBlog)**: Build a personal blog with Next.js/Postgres/NextAuth.js/Vercel/Tailwind CSS
-
-
-
-    - **🆕[Vercel-Portfolio-Pageview](https://github.com/ameureka/Portfolio-Pageview)**: Build with Next.js/Upstash/Vercel/Tailwind CSS
-
-
-
-
-
-## 📬 **Contact Me**：
-
-- Email: lynnwongchina@gmail.com
-
-
-
-## 🔗 **Social Media**：
-
-- Personal page: [-Ameureka-](https://portfolio.ameureka.com/)
-
-- youtube：[My YouTube Homepage](https://www.youtube.com/@ameureka-ai)
-
-- X (Twitter): [My Twitter](https://x.com/am_eureka)
-
-- Xiaohongshu：[My Xiaohongshu Homepage](https://www.xiaohongshu.com/user/profile/5df6e93200000000010051d0?tab=note&subTab=note)
-
-
-
-## 📅 **Future Plans**：
-
-- Open AI consulting automatically through AI-agent
-
-- Launch a series of model fine-tuning courses based on Unsloth
-
-- Commercialization series based on Vercel+Ollama+Deepseek
-
-- Ameueka Community Summit
+- Open for technical discussions and advisory on **AI Agent Architecture, Harness Engineering, Quality Gating, and Enterprise Generative AI Systems**.
+- 📧 **Email**: [slicesarah8@gmail.com](mailto:slicesarah8@gmail.com)
+- 🌐 **GitHub**: [github.com/ameureka](https://github.com/ameureka)
