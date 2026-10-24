@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ameureka (王亚林)
+# 👋 Hi, I'm Ameureka
 
 ### AI Systems Architect | Harness Engineering Practitioner | Open Source Builder
 
